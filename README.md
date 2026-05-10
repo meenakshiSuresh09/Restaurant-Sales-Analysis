@@ -22,5 +22,5 @@ Excel · Power BI
 
 ## What I Learned
 Data cleaning is 80% of the work — 
-but the insights make it worth it! 📊
+but the insights make it worth it.
 
